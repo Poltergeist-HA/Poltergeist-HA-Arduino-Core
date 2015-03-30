@@ -1,5 +1,4 @@
 #include <Arduino.h>
-#include <UIPEthernet.h>
 
 EthernetUDP udp;
 
